@@ -2,9 +2,9 @@
 
  <h1 style="font-size: 4em;">Hola👋 I`m Anas Salah</h1>
 
- <h2 style="font-size: 1em;">
+ <h2 style="font-size: 2em;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer%3BSoftware+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer+...%3BSoftware+Engineer)](https://git.io/typing-svg)
 
  </h2>
 
