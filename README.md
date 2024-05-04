@@ -1,6 +1,8 @@
 <div align="center">
-  <h1 style="font-size: 3em;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hola👋+I`m+Anas+Salah)](https://git.io/typing-svg)</h1>
-  <h2 style="font-size: 2em;">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer)](https://git.io/typing-svg)</h2>
+  <h1 style="font-size: 3em;">Hola👋 I`m Anas Salah</h1>
+  <h2 style="font-size: 2em;">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer%2C+Software+Engineer)](https://git.io/typing-svg)
+  </h2>
 </div>
 
 ## About Me
