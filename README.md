@@ -16,29 +16,13 @@
 <details>
 <summary><strong>Skills</strong></summary>
 
-### iOS Development
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Development%3B-+Swift%2C+UIKit%2C+SwiftUI%2C+RxSwift%2C+Combine%3B-+CocoaPods%2C+Objective-C%2C+Foundation%2C+Cocoa+Touch%3B-+Map+Kit%2C+Localization%2C+Memory+Management%2C+Threading%3B-+Data+Persistence%2C+Core+Data%2C+Realm%2C+SQLite%3B-+UserDefaults%2C+Property+Lists%2C+Networking%2C+Alamofire%3B-+URLSession%2C+RESTful+APIs%2C+Unit+Testing%2C+Version+Control+System)](https://git.io/typing-svg)
 
-- Swift, UIKit, SwiftUI, RxSwift, Combine
-- CocoaPods, Objective-C, Foundation, Cocoa Touch
-- Map Kit, Localization, Memory Management, Threading
-- Data Persistence, Core Data, Realm, SQLite
-- UserDefaults, Property Lists, Networking, Alamofire
-- URLSession, RESTful APIs, Unit Testing, Version Control System
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Development%3B-+Kotlin%2C+Java%2C+Cross-Platform%2C+Flutter)](https://git.io/typing-svg)
 
-### Android Development
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Conceptual%3B-+Problem+Solving%2C+Data+Structures+%26+Algorithms%2C+OOP%3B-+Functional+Programming%2C+Architectural+Design+Patterns%3B-+Design+Patterns%2C+S.O.L.I.D.+Principles%2C+Clean+Code%3B-+Firebase%2C+Agile%2C+UML%2C+UI%2FUX+Design)](https://git.io/typing-svg)
 
-- Kotlin, Java, Cross-Platform, Flutter
-
-### Conceptual
-
-- Problem Solving, Data Structures & Algorithms, OOP
-- Functional Programming, Architectural Design Patterns
-- Design Patterns, S.O.L.I.D. Principles, Clean Code
-- Firebase, Agile, UML, UI/UX Design
-
-### Soft Skills
-
-- Teamwork, Communication Skills
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soft+Skills%3B-+Teamwork%2C+Communication+Skills)](https://git.io/typing-svg)
 
 </details>
 
