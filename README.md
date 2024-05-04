@@ -29,7 +29,7 @@
 
 - 📧 Email: [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)
 
-- 💼 LinkedIn: [anas-salah](https://www.linkedin.com/in/anas-salah)
+- 💼 LinkedIn: [anas-salah](https://www.linkedin.com/in/anas-salah-930808202/)
 
 
 
