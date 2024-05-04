@@ -1,27 +1,28 @@
-# Anas Salah Ahmed
+# Hello07Anas/README.md
+
+## Anas Salah Ahmed
 
 ## iOS Developer
 
 https://leetcode.com/u/Anas7Salah/
-- 📧 **Email:** [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)  
-- 💼 **LinkedIn:** [anas-salah](https://www.linkedin.com/in/anas-salah)  
-- 🌍 **Location:** Egypt, Cairo  
+
+* **Email:** [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)
+* **LinkedIn:** [anas-salah](https://www.linkedin.com/in/anas-salah)
+* **Location:** Egypt, Cairo
 
 ---
-
-### About Me
 
 ### Education
 
 - **9-Month Diploma**, Professional Training Program (ITI)
-  - *Specialization:* Native Mobile Applications Development
-  - *Duration:* 10/2023 – 06/2024
+  - Specialization: Native Mobile Applications Development
+  - Duration: 10/2023 – 06/2024
 
 - **Ain Shams University**
-  - *Degree:* Bachelor of Commerce
-  - *Duration:* 02/2018 – 05/2021
-  - *Major:* Business Administration
-  - *Grade:* Good
+  - Degree: Bachelor of Commerce
+  - Duration: 02/2018 – 05/2021
+  - Major: Business Administration
+  - Grade: Good
 
 ---
 
@@ -33,28 +34,3 @@ https://leetcode.com/u/Anas7Salah/
 - **Soft Skills:** Teamwork, Communication Skills.
 
 ---
-
-<script>
-  var phone = "(+20) 012-743-480-83";
-  var phoneElement = document.getElementById("phone");
-  var i = 3; // Start from the first digit of the phone number
-  function typePhone() {
-    if (phone[i] === '-') {
-      // Display the dash immediately
-      phoneElement.textContent += '-';
-      i++;
-    } else if (phone[i] === ' ') {
-      // Display the space immediately
-      phoneElement.textContent += ' ';
-      i++;
-    } else if (i < phone.length) {
-      // Display the digit after a delay
-      phoneElement.textContent += phone[i];
-      i++;
-      setTimeout(typePhone, 200); // Adjust the delay here if needed
-    }
-  }
-  typePhone();
-</script>
-
-This code utilizes Markdown formatting
