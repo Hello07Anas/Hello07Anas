@@ -1,6 +1,11 @@
-# Hola👋 I`m Anas Salah - iOS Developer
+# Hola👋 I`m Anas Salah 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer)](https://git.io/typing-svg)
 
 ## About Me
+
+Aspiring Software Engineer with experience in Mobile Development.
+I'm Impact-driven and achieve engineering excellence while shipping the most value to customers in the products I develop.
 
 <p id="about-me"></p>
 
