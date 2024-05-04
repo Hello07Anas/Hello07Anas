@@ -1,16 +1,20 @@
-# Anas Salah Ahmed - iOS Developer
+# <p align="center">Anas Salah Ahmed - iOS Developer</p>
 
 ## About Me
 
 I'm a passionate iOS Developer with extensive experience in mobile app development. I hold a 9-month diploma from ITI in Mobile Applications Development and have supplemented my learning with self-study via Harvard’s CS50. I'm committed to leveraging my skills to contribute to innovative projects and further my career in programming.
 
-## Contact Information
+<details>
+<summary><strong>Contact Information</strong></summary>
 
 - 📧 Email: [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)
 - 💼 LinkedIn: [anas-salah](https://www.linkedin.com/in/anas-salah)
 - 🙅‍♂️ LeetCode [Anas7Salah](https://leetcode.com/u/Anas7Salah/)
 
-## Education
+</details>
+
+<details>
+<summary><strong>Education</strong></summary>
 
 - **9-Month Diploma**
   - *Professional Training Program (ITI)*
@@ -23,7 +27,10 @@ I'm a passionate iOS Developer with extensive experience in mobile app developme
   - *Major:* Business Administration
   - *Grade:* Good
 
-## Skills
+</details>
+
+<details>
+<summary><strong>Skills</strong></summary>
 
 ### iOS Development
 
@@ -48,3 +55,5 @@ I'm a passionate iOS Developer with extensive experience in mobile app developme
 ### Soft Skills
 
 - Teamwork, Communication Skills
+
+</details>
