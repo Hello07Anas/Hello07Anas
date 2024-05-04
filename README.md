@@ -4,7 +4,7 @@
 
  <h2 style="font-size: 2em;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer+...%3BSoftware+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer+ 🚀 +...%3BSoftware+Engineer)](https://git.io/typing-svg)
 
  </h2>
 
@@ -17,7 +17,7 @@
 
 
 
-## About Me
+## About Me 
 
 
 
