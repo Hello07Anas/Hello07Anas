@@ -3,7 +3,10 @@
 ## iOS Developer
 
 - 📞 **Phone:** 
-  - <span id="phone"></span>
+  - (+20) 0<span id="phone"></span>  
+- 📧 **Email:** [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)  
+- 💼 **LinkedIn:** [anas-salah](https://www.linkedin.com/in/anas-salah)  
+- 🌍 **Location:** Egypt, Cairo  
 
 ---
 
