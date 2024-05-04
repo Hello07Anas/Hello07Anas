@@ -4,11 +4,14 @@
 
  <h2 style="font-size: 2em;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer%2C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer)](https://git.io/typing-svg)
 
  </h2>
 
 </div>
+
 
 
 
