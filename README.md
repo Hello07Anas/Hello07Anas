@@ -2,13 +2,14 @@
 
  <h1 style="font-size: 4em;">Hola👋 I`m Anas Salah</h1>
 
- <h2 style="font-size: 3em;">
+ <h2 style="font-size: 2em;">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=<span style='font-size:2.5em;'>iOS+Developer</span>%3BSoftware+Engineer)](https://git.io/typing-svg)
 
  </h2>
 
 </div>
+
 
 
 
