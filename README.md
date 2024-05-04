@@ -1,4 +1,4 @@
-# <p align="center">Hola👋 I`m Anas Salah Ahmed - iOS Developer</p>
+# <p align="center">Hola👋 I`m Anas Salah - iOS Developer</p>
 
 ## About Me
 
