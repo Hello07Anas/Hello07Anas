@@ -1,4 +1,4 @@
-# <p align="center">Hola👋 I`m Anas Salah - iOS Developer</p>
+# Hola👋 I`m Anas Salah - iOS Developer
 
 ## About Me
 
@@ -42,20 +42,4 @@
 
 </details>
 
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  var aboutMeText = "I'm a passionate iOS Developer with extensive experience in mobile app development. I hold a 9-month diploma from ITI in Mobile Applications Development and have supplemented my learning with self-study via Harvard’s CS50. I'm committed to leveraging my skills to contribute to innovative projects and further my career in programming.";
-  var aboutMeElement = document.getElementById("about-me");
-  var index = 0;
-
-  function typeAboutMe() {
-    if (index < aboutMeText.length) {
-      aboutMeElement.innerHTML += aboutMeText.charAt(index);
-      index++;
-      setTimeout(typeAboutMe, 50); // Adjust typing speed here (in milliseconds)
-    }
-  }
-
-  typeAboutMe();
-});
-</script>
+<script src="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/typeAboutMe.js"></script>
