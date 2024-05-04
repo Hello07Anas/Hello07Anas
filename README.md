@@ -2,7 +2,8 @@
 
 ## iOS Developer
 
-- 📞 **Phone:** (+20) 012-743-480-83  
+- 📞 **Phone:** 
+  - (+20) 0**-***-***-**  
 - 📧 **Email:** [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)  
 - 💼 **LinkedIn:** [anas-salah](https://www.linkedin.com/in/anas-salah)  
 - 🌍 **Location:** Egypt, Cairo  
