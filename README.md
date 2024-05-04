@@ -17,8 +17,6 @@
 
 
 
-## About Me 
-
 
 
 <p id="about-me"></p>
