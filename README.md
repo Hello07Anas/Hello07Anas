@@ -63,7 +63,3 @@
 
 
 </details>
-
-
-
-<script src="https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPOSITORY_NAME/typeAboutMe.js"></script>
