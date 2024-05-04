@@ -3,7 +3,7 @@
 ## iOS Developer
 
 - 📞 **Phone:** 
-  - (+20) 0<span id="phone"></span>  
+  - (+20) <span id="phone">0</span>
 - 📧 **Email:** [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)  
 - 💼 **LinkedIn:** [anas-salah](https://www.linkedin.com/in/anas-salah)  
 - 🌍 **Location:** Egypt, Cairo  
@@ -42,12 +42,21 @@ I'm a passionate iOS Developer with extensive experience in mobile app developme
 <script>
   var phone = "(+20) 012-743-480-83";
   var phoneElement = document.getElementById("phone");
-  var i = 0;
+  var i = 3; // Start from the first digit of the phone number
   function typePhone() {
-    if (i < phone.length) {
-      phoneElement.textContent += phone.charAt(i);
+    if (phone[i] === '-') {
+      // Display the dash immediately
+      phoneElement.textContent += '-';
       i++;
-      setTimeout(typePhone, 100); // Adjust the delay here if needed
+    } else if (phone[i] === ' ') {
+      // Display the space immediately
+      phoneElement.textContent += ' ';
+      i++;
+    } else if (i < phone.length) {
+      // Display the digit after a delay
+      phoneElement.textContent += phone[i];
+      i++;
+      setTimeout(typePhone, 200); // Adjust the delay here if needed
     }
   }
   typePhone();
