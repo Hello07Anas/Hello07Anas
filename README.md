@@ -13,7 +13,7 @@
 
 ### Skills
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer%2C+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer)](https://git.io/typing-svg)
 
 - iOS Development
   - Swift, UIKit, SwiftUI, RxSwift, Combine
@@ -22,6 +22,8 @@
   - Data Persistence, Core Data, Realm, SQLite
   - UserDefaults, Property Lists, Networking, Alamofire
   - URLSession, RESTful APIs, Unit Testing, Version Control System
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer)](https://git.io/typing-svg)
 
 - Android Development
   - Kotlin, Java, Cross-Platform, Flutter
