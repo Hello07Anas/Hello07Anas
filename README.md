@@ -37,6 +37,9 @@
     .contact-info a:hover {
       color: #007bff;
     }
+    .icon {
+      margin-right: 5px;
+    }
   </style>
 </head>
 <body>
@@ -50,11 +53,8 @@
       <p>
         📧 <a href="mailto:hello.anas07@gmail.com">Email: hello.anas07@gmail.com</a><br>
         💼 <a href="https://www.linkedin.com/in/anas-salah">LinkedIn: anas-salah</a><br>
-        🌍 Location: Egypt, Cairo
-      </p>
-      <p>
-        <strong>LeetCode:</strong> <a href="https://leetcode.com/u/Anas7Salah/">Anas7Salah</a>
-        <img src="your-image-url" alt="LeetCode Profile Image" class="profile-img">
+        <img src="email-icon.png" alt="Email Icon" class="icon"> <a href="https://leetcode.com/u/Anas7Salah/">Anas7Salah</a>
+        <img src="linkedin-icon.png" alt="LinkedIn Icon" class="icon"> <a href="https://leetcode.com/u/Anas7Salah/">Anas7Salah</a>
       </p>
     </div>
     <hr>
