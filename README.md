@@ -1,66 +1,54 @@
 <div align="center">
 
- <h1 style="font-size: 4em;"> Hola👋 I`m Anas Salah</h1>
+# Hi, I'm Anas Salah 👋
+### iOS Developer
 
- <h2 style="font-size: 2em;">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer🚀+...%3BSoftware+Engineer👨‍💻+...)](https://git.io/typing-svg)
-
- </h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anas-salah-/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Anas7Salah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anas.nwirah@gmail.com)
 
 </div>
 
+---
 
+## About me
 
+iOS Developer with 2+ years of experience building and shipping production apps.
+Launched **Yozya** — a full real estate platform for the MENA region — from concept to App Store in 7 months.
+Currently working at **Shabek**. ITI graduate (Native Mobile Development).
 
+---
 
+## Tech stack
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0070C9?style=flat&logo=swift&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+---
 
+## What I've shipped
 
+| App | Company | Stack | Status |
+|-----|---------|-------|--------|
+| Yozya — Real estate platform | Shabek | Swift, UIKit, RxSwift, MVVM-C | Live on App Store |
+| Hamla — Delivery platform | Shabek | Swift, UIKit, RxSwift, MVVM-C | Live |
+| Elegance Oud — E-commerce | Webenia | Swift, UIKit, Swagger | Live on App Store |
+| AtmoDrive — Ride hailing | Atmosphere (intern) | Swift, UIKit | Live |
 
-<p id="about-me"></p>
+---
 
+## Architecture & patterns
 
-
-## Contact Information
-
-
-
-- 📧 Email: [hello.anas07@gmail.com](mailto:hello.anas07@gmail.com)
-
-- 💼 LinkedIn: [anas-salah](https://www.linkedin.com/in/anas-salah-930808202/)
-
-
-
-### LeetCode Profile
-
-
-
-- 🙅‍♂️ [Anas7Salah](https://leetcode.com/u/Anas7Salah/)
-
-
-
-<details>
-
-<summary><strong>Skills</strong></summary>
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=iOS+Development%3B-+Swift%2C+UIKit%2C+SwiftUI%2C+RxSwift%2C+Combine%3B-+CocoaPods%2C+Objective-C%2C+Foundation%2C+Cocoa+Touch%3B-+Map+Kit%2C+Localization%2C+Memory+Management%2C+Threading%3B-+Data+Persistence%2C+Core+Data%2C+Realm%2C+SQLite%3B-+UserDefaults%2C+Property+Lists%2C+Networking%2C+Alamofire%3B-+URLSession%2C+RESTful+APIs%2C+Unit+Testing%2C+Version+Control+System)](https://git.io/typing-svg)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Android+Development%3B-+Kotlin%2C+Java%2C+Cross-Platform%2C+Flutter)](https://git.io/typing-svg)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Conceptual%3B-+Problem+Solving%2C+Data+Structures+%26+Algorithms%2C+OOP%3B-+Functional+Programming%2C+Architectural+Design+Patterns%3B-+Design+Patterns%2C+S.O.L.I.D.+Principles%2C+Clean+Code%3B-+Firebase%2C+Agile%2C+UML%2C+UI%2FUX+Design)](https://git.io/typing-svg)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soft+Skills%3B-+Teamwork%2C+Communication+Skills)](https://git.io/typing-svg)
-
-
-
-</details>
+- MVVM-C, MVC, MVP, Clean Architecture
+- SOLID Principles, OOP, Design Patterns
+- Reactive programming with RxSwift
+- REST API integration, Push Notifications
+- Localization (Arabic / English)
+- Core Data, Realm, SQLite
+  
